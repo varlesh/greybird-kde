@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg45" width="22" height="22" version="1.1">
+ <g id="g876">
+  <rect id="rect846" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path id="path934" d="m 7,8 v 1 1 h 1 v 1 h 1 v 1 h 1 v 1 H 8 v 1 H 7 v 2 h 2 v -1 h 1 v -1 h 1 1 v 1 h 1 v 1 h 2 v -2 h -1 v -1 h -2 v -1 h 1 v -1 h 1 v -1 h 1 V 9 8 h -2 v 1 h -1 v 1 H 11 10 V 9 H 9 V 8 Z" style="opacity:0.5;fill:#ffffff"/>
+  <path id="path907" d="m 7,7 v 1 1 h 1 v 1 h 1 v 1 h 1 v 1 H 8 v 1 H 7 v 2 h 2 v -1 h 1 v -1 h 1 1 v 1 h 1 v 1 h 2 v -2 h -1 v -1 h -2 v -1 h 1 v -1 h 1 V 9 h 1 V 8 7 H 13 V 8 H 12 V 9 H 11 10 V 8 H 9 V 7 Z" style="fill:#878787"/>
+  <path id="rect932" d="m 9,11 v 1 h 1 v -1 z m 3,0 v 1 h 1 v -1 z" style="fill:#b0b0b0"/>
+  <path id="rect900" d="M 7,7 V 8 H 9 V 7 Z m 2,1 v 1 h 1 V 8 Z m 1,1 v 1 h 1 1 V 9 h -1 z m 2,0 h 1 V 8 h -1 z m 1,-1 h 2 V 7 h -2 z m -5,4 v 1 h 1 v -1 z m 0,1 H 7 v 1 h 1 z m 5,-1 v 1 h 1 v -1 z m 1,1 v 1 h 1 v -1 z" style="opacity:0.21"/>
+ </g>
+</svg>

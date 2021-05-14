@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg18" width="7" height="41" version="1.1">
+ <defs id="defs8">
+  <linearGradient id="linearGradient831">
+   <stop style="stop-color:#000000;stop-opacity:1" id="stop2" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" id="stop4" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient843" cx="6" cy="305.444" r="3" fx="6" fy="305.444" gradientTransform="matrix(-2.3333334,8.2688579e-6,-1.2862565e-5,-2.6666453,21.003929,840.5138)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
+  <radialGradient id="radialGradient957" cx="16.773" cy="9.778" r="3.5" fx="16.773" fy="9.778" gradientTransform="matrix(0,-5.1428565,2,1.9490991e-8,-0.55555515,104.25973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
+  <linearGradient id="linearGradient912" x1="90" x2="90" y1="896.708" y2="840.17" gradientTransform="matrix(1,0,0,0.53061224,-73,-434.80441)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1018"/>
+  <linearGradient id="linearGradient1018">
+   <stop style="stop-color:#c8c8c8;stop-opacity:1" id="stop1014" offset="0"/>
+   <stop style="stop-color:#cdcdcd;stop-opacity:1" id="stop1016" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g1079" transform="matrix(1,0,0,-1,-12,41)">
+  <rect style="opacity:0.3;fill:url(#radialGradient957)" id="rect947" width="7" height="18" x="12" y="0"/>
+  <path id="path58" style="fill:#828282" d="M 19,10 C 19,10 17.246724,9.991 15.496094,11.011719 13.745463,12.032919 12,14.21428 12,18 v 23 h 1 V 18 c 0,-7 6,-7 6,-7 z"/>
+  <path id="path28" style="fill:url(#linearGradient912)" d="m 19,11 c 0,0 -6,0 -6,7 v 23 h 6 V 18 Z"/>
+  <path style="opacity:0.8;fill:#ffffff" id="path62" d="m 19,11 c 0,0 -6,0 -6,7 h 0.03516 C 13.403609,12.018748 19,12 19,12 Z"/>
+ </g>
+</svg>

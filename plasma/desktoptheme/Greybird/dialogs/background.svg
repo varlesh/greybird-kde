@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg84" width="238" height="68" version="1">
+ <defs id="defs15">
+  <linearGradient id="linearGradient3837">
+   <stop id="stop3" offset="0"/>
+   <stop style="stop-opacity:0" id="stop5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2376" x1="-73" x2="-73" y1="1134.393" y2="1142.679" gradientTransform="matrix(0,-1,-0.96551724,0,1275.2759,-15)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <radialGradient id="radialGradient2400" cx="-24.992" cy="1132.5" r="3.625" fx="-24.992" fy="1132.5" gradientTransform="matrix(2.9463996e-4,-2.2069569,2.2066081,2.9459341e-4,-2318.9773,-45.489676)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <linearGradient id="linearGradient1024" x1="-73" x2="-73" y1="1134.393" y2="1142.679" gradientTransform="matrix(0,-1,-0.96551724,0,1275.2759,-15)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <radialGradient id="radialGradient1026" cx="-24.992" cy="1132.5" r="3.625" fx="-24.992" fy="1132.5" gradientTransform="matrix(2.9463996e-4,-2.2069569,2.2066081,2.9459341e-4,-2318.9773,-45.489676)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <radialGradient id="radialGradient1044" cx="-24.992" cy="1132.5" r="3.625" fx="-24.992" fy="1132.5" gradientTransform="matrix(2.9463996e-4,-2.2069569,2.2066081,2.9459341e-4,-2318.9773,-45.489676)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <radialGradient id="radialGradient1046" cx="-24.992" cy="1132.5" r="3.625" fx="-24.992" fy="1132.5" gradientTransform="matrix(5.6032076e-5,-2.2069569,2.2066035,5.6023104e-5,-2318.9781,-45.219497)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <linearGradient id="linearGradient1056" x1="-73" x2="-73" y1="1134.393" y2="1142.679" gradientTransform="matrix(0,-1,-0.96551724,0,1275.2759,-15)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+  <linearGradient id="linearGradient1066" x1="-73" x2="-73" y1="1134.393" y2="1142.679" gradientTransform="matrix(0,-1,-0.96551724,0,1275.2759,-15)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
+ </defs>
+ <path d="M 87,57 V 60 H 135 V 57 Z" style="fill:#fcfcfc" id="bottom"/>
+ <path d="M 84,57 C 84,58.662 85.338,60 87,60 V 57 Z" style="fill:#fcfcfc" id="bottomleft"/>
+ <path d="M 135,57 V 60 C 136.662,60 138,58.662 138,57 Z" style="fill:#fcfcfc" id="bottomright"/>
+ <path d="M 87,8.9999999 V 57 H 135 V 8.9999999 Z" style="fill:#fcfcfc" id="center"/>
+ <path d="M 87,5.9999995 C 85.33801,5.9999995 84,7.3379999 84,8.9999999 H 87 Z" style="fill:#fcfcfc" id="topleft"/>
+ <path d="M 87,5.9999995 V 8.9999999 H 135 V 5.9999995 Z" style="fill:#fcfcfc" id="top"/>
+ <path d="M 84,8.9999999 V 57 H 87 V 8.9999999 Z" style="fill:#fcfcfc" id="left"/>
+ <path d="M 135,8.9999999 V 57 H 138 V 8.9999999 Z" style="fill:#fcfcfc" id="right"/>
+ <g id="shadow-right" transform="matrix(-1,0,0,1,408,0)">
+  <path id="path1008" d="M 177,10 V 58 H 180 V 10 Z" style="opacity:0.001"/>
+  <path id="path1010" d="M 177,58 H 170 V 10 H 177 Z" style="opacity:0.4;fill:url(#linearGradient1024)"/>
+  <rect style="opacity:0.37" id="rect1012" width="1" height="48" x="176" y="10"/>
+ </g>
+ <rect id="shadow-center" style="opacity:0.001" width="48" height="48" x="180" y="10"/>
+ <g id="shadow-top" transform="rotate(90,204,34)">
+  <path id="path1048" d="M 177,10 V 58 H 180 V 10 Z" style="opacity:0.001"/>
+  <path id="path1050" d="M 177,58 H 170 V 10 H 177 Z" style="opacity:0.4;fill:url(#linearGradient1056)"/>
+  <rect style="opacity:0.37" id="rect1052" width="1" height="48" x="176" y="10"/>
+ </g>
+ <rect id="shadow-hint-top-margin" style="fill:#ff0000" width="4" height="7" x="202" y="0"/>
+ <g id="shadow-bottom" transform="matrix(0,-1,-1,0,238,238)">
+  <path style="opacity:0.001" id="path1058" d="M 177,10 V 58 H 180 V 10 Z"/>
+  <path style="opacity:0.4;fill:url(#linearGradient1066)" id="path1060" d="M 177,58 H 170 V 10 H 177 Z"/>
+  <rect id="rect1062" width="1" height="48" x="176" y="10" style="opacity:0.37"/>
+ </g>
+ <rect id="shadow-hint-bottom-margin" style="fill:#ff0000" width="4" height="7" x="202" y="61"/>
+ <rect id="shadow-hint-right-margin" style="fill:#ff0000" width="4" height="7" x="32" y="-238" transform="rotate(90)"/>
+ <g id="shadow-left">
+  <path style="opacity:0.001" id="path56" d="M 177,10 V 58 H 180 V 10 Z"/>
+  <path style="opacity:0.4;fill:url(#linearGradient2376)" id="path58" d="M 177,58 H 170 V 10 H 177 Z"/>
+  <rect id="rect999" width="1" height="48" x="176" y="10" style="opacity:0.37"/>
+ </g>
+ <rect id="shadow-hint-left-margin" style="fill:#ff0000" width="4" height="7" x="32" y="-177" transform="rotate(90)"/>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="4" height="3" x="109" y="9"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="4" height="3" x="109" y="54"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="4" height="3" x="31" y="-135" transform="rotate(90)"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="4" height="3" x="31" y="-90" transform="rotate(90)"/>
+ <rect id="hint-stretch-borders" style="fill:#ff0000" width="6" height="6" x="67" y="1"/>
+ <path id="mask-bottom" style="opacity:1" d="m 3,59 v 3 h 48 v -3 z"/>
+ <path id="mask-bottomleft" style="opacity:1" d="m 0,59 c 0,1.662 1.338,3 3,3 v -3 z"/>
+ <path id="mask-bottomright" style="opacity:1" d="m 51,59 v 3 c 1.662,0 3,-1.338 3,-3 z"/>
+ <path id="mask-center" style="opacity:1" d="M 3,11 V 59 H 51 V 11 Z"/>
+ <path id="mask-topleft" style="opacity:1" d="M 3,8 C 1.33801,8 0,9.338 0,11 h 3 z"/>
+ <path id="mask-top" style="opacity:1" d="m 3,8 v 3 H 51 V 8 Z"/>
+ <path id="mask-left" style="opacity:1" d="M 0,11 V 59 H 3 V 11 Z"/>
+ <path id="mask-right" style="opacity:1" d="m 51,11 v 48 h 3 V 11 Z"/>
+ <path id="mask-topright" style="opacity:1" d="m 51,8 v 3 h 3 C 54,9.338 52.66201,8 51,8 Z"/>
+ <g id="shadow-topleft">
+  <path style="opacity:0.4;fill:url(#radialGradient2400)" id="path41" d="M 177,10 C 177,9.0101 178,7.0303 180,7.0303 V 0 H 170 V 10 Z"/>
+  <path style="opacity:0.001" id="path43" d="M 180,7 C 178.33801,7 177,8.338 177,10 H 180 Z"/>
+  <path id="path972" d="M 180 6 C 178.98264 6 178.00007 6.475529 177.25781 7.1992188 C 176.51555 7.9229085 176 8.9160941 176 10 L 177 10 C 177 9.0101 178 7.03125 180 7.03125 L 180 6 z" style="opacity:0.37"/>
+ </g>
+ <g id="shadow-topright" transform="matrix(-1,0,0,1,408,0)">
+  <path id="path1016" d="M 177,10 C 177,9.0101 178,7.0303 180,7.0303 V 0 H 170 V 10 Z" style="opacity:0.4;fill:url(#radialGradient1026)"/>
+  <path id="path1018" d="M 180,7 C 178.33801,7 177,8.338 177,10 H 180 Z" style="opacity:0.001"/>
+  <path style="opacity:0.37" id="path1020" d="M 180,6 C 178.98264,6 178.00007,6.475529 177.25781,7.1992188 176.51555,7.9229085 176,8.9160941 176,10 H 177 C 177,9.0101 178,7.03125 180,7.03125 Z"/>
+ </g>
+ <g id="shadow-bottomleft" transform="matrix(1,0,0,-1,0,68)">
+  <path id="path1028" d="M 177,10 C 177,9.0101 178,7.0303 180,7.0303 V 0 H 170 V 10 Z" style="opacity:0.4;fill:url(#radialGradient1044)"/>
+  <path id="path1030" d="M 180,7 C 178.33801,7 177,8.338 177,10 H 180 Z" style="opacity:0.001"/>
+  <path style="opacity:0.37" id="path1032" d="M 180,6 C 178.98264,6 178.00007,6.475529 177.25781,7.1992188 176.51555,7.9229085 176,8.9160941 176,10 H 177 C 177,9.0101 178,7.03125 180,7.03125 Z"/>
+ </g>
+ <g id="shadow-bottomright" transform="rotate(-180,204,34)">
+  <path style="opacity:0.4;fill:url(#radialGradient1046)" id="path1036" d="M 177,10 C 177,9.0101 178,7.0303 180,7.0303 V 0 H 170 V 10 Z"/>
+  <path style="opacity:0.001" id="path1038" d="M 180,7 C 178.33801,7 177,8.338 177,10 H 180 Z"/>
+  <path id="path1040" d="M 180,6 C 178.98264,6 178.00007,6.475529 177.25781,7.1992188 176.51555,7.9229085 176,8.9160941 176,10 H 177 C 177,9.0101 178,7.03125 180,7.03125 Z" style="opacity:0.37"/>
+ </g>
+ <path id="topright" style="fill:#fcfcfc" d="M 135,5.9999995 C 136.66199,5.9999995 138,7.3379999 138,8.9999999 H 135 Z"/>
+</svg>

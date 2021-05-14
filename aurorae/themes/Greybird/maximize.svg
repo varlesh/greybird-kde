@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg45" width="22" height="22" version="1.1">
+ <defs id="defs49">
+  <linearGradient id="linearGradient832">
+   <stop style="stop-color:#4381c1;stop-opacity:1" id="stop828" offset="0"/>
+   <stop style="stop-color:#5fa0e4;stop-opacity:1" id="stop830" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1169" x1="12" x2="12" y1="7" y2="15" gradientTransform="translate(44)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient832"/>
+ </defs>
+ <g id="active-center">
+  <rect id="rect1061" width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <path style="fill:#ffffff;opacity:0.5" id="path1140" d="m 10,8 v 3 H 7 v 2 h 3 v 3 h 2 v -3 h 3 V 11 H 12 V 8 Z"/>
+  <path id="path1065" d="m 10,7 v 3 H 7 v 2 h 3 v 3 h 2 v -3 h 3 V 10 H 12 V 7 Z" style="fill:#878787"/>
+  <path id="path1135" d="m 10,7 v 1 h 2 V 7 Z m -3,3 v 1 h 3 v -1 z m 5,0 v 1 h 3 v -1 z" style="opacity:0.21"/>
+ </g>
+ <g id="hover-center">
+  <path style="opacity:0.37" id="path1071" d="M 25.300781,0 C 23.491611,0 22,1.4916113 22,3.3007812 V 18.699219 C 22,20.508389 23.491611,22 25.300781,22 H 40.699219 C 42.508389,22 44,20.508389 44,18.699219 V 3.3007812 C 44,1.4916113 42.508389,0 40.699219,0 Z m -0.07813,1 H 40.777344 C 42.008455,1 43,1.9915451 43,3.2226562 V 18.777344 C 43,20.008455 42.008455,21 40.777344,21 H 25.222656 C 23.991545,21 23,20.008455 23,18.777344 V 3.2226562 C 23,1.9915451 23.991545,1 25.222656,1 Z"/>
+  <path style="opacity:0.6;fill:#ffffff" id="path1073" d="M 25.222656,1 C 23.991545,1 23,1.9915451 23,3.2226562 v 1 C 23,2.9915451 23.991545,2 25.222656,2 H 40.777344 C 42.008455,2 43,2.9915451 43,4.2226562 v -1 C 43,1.9915451 42.008455,1 40.777344,1 Z"/>
+  <path id="path1147" d="m 32,8 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 11 H 34 V 8 Z" style="fill:#ffffff;opacity:0.5"/>
+  <path style="fill:#595959" id="path1149" d="m 32,7 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 10 H 34 V 7 Z"/>
+  <path style="opacity:0.25" id="path1151" d="m 32,7 v 1 h 2 V 7 Z m -3,3 v 1 h 3 v -1 z m 5,0 v 1 h 3 v -1 z"/>
+ </g>
+ <g id="pressed-center">
+  <path style="opacity:0.37" id="path1083" d="M 47.300781,0 C 45.491611,0 44,1.4916113 44,3.3007812 V 18.699219 C 44,20.508389 45.491611,22 47.300781,22 H 62.699219 C 64.508389,22 66,20.508389 66,18.699219 V 3.3007812 C 66,1.4916113 64.508389,0 62.699219,0 Z m -0.07813,1 H 62.777344 C 64.008455,1 65,1.9915451 65,3.2226562 V 18.777344 C 65,20.008455 64.008455,21 62.777344,21 H 47.222656 C 45.991545,21 45,20.008455 45,18.777344 V 3.2226562 C 45,1.9915451 45.991545,1 47.222656,1 Z"/>
+  <path style="fill:#ffffff;opacity:0.5" id="path1155" d="m 54,8 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 11 H 56 V 8 Z"/>
+  <path id="path1157" d="m 54,7 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 10 H 56 V 7 Z" style="fill:url(#linearGradient1169)"/>
+  <path id="path1159" d="m 54,7 v 1 h 2 V 7 Z m -3,3 v 1 h 3 v -1 z m 5,0 v 1 h 3 v -1 z" style="fill:#1f61a9"/>
+ </g>
+ <g id="inactive-center">
+  <rect style="opacity:0.001" id="rect1093" width="22" height="22" x="66" y="0"/>
+  <path id="path1171" d="m 76,8 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 11 H 78 V 8 Z" style="fill:#ffffff;opacity:0.2"/>
+  <path style="fill:#aaaaaa" id="path1173" d="m 76,7 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 10 H 78 V 7 Z"/>
+  <path style="opacity:0.21" id="path1175" d="m 76,7 v 1 h 2 V 7 Z m -3,3 v 1 h 3 v -1 z m 5,0 v 1 h 3 v -1 z"/>
+ </g>
+ <g id="deactivated-center" transform="translate(22)">
+  <rect id="rect1216" width="22" height="22" x="66" y="0" style="opacity:0.001"/>
+  <path style="fill:#ffffff;opacity:0.2" id="path1218" d="m 76,8 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 11 H 78 V 8 Z"/>
+  <path id="path1220" d="m 76,7 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 10 H 78 V 7 Z" style="fill:#aaaaaa"/>
+  <path id="path1222" d="m 76,7 v 1 h 2 V 7 Z m -3,3 v 1 h 3 v -1 z m 5,0 v 1 h 3 v -1 z" style="opacity:0.21"/>
+ </g>
+</svg>
