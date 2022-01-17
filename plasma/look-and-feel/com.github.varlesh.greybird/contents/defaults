@@ -22,6 +22,7 @@ name=Greybird
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
+BorderSize=Tiny
 theme=__aurorae__svg__Greybird
 
 [kcminputrc][Mouse]
