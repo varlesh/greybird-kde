@@ -44,10 +44,10 @@ Image {
         Rectangle {
             radius: 2
             gradient: Gradient {
-                    GradientStop { position: 0.0; color: "#a1a1a1" }
-                    GradientStop { position: 1.0; color: "#a9a9a9" }
+                    GradientStop { position: 0.0; color: "#2f3233" }
+                    GradientStop { position: 1.0; color: "#333637" }
                 }
-            border.color: "#7a7a7a"
+            border.color: "#1d1f1f"
             border.width: 1
             anchors {
                 bottom: parent.bottom
@@ -65,10 +65,10 @@ Image {
                 }
                 width: (parent.width / 6) * (stage - 1)
                 gradient: Gradient {
-                    GradientStop { position: 0.0; color: "#499bf0" }
-                    GradientStop { position: 1.0; color: "#2b82db" }
+                    GradientStop { position: 0.0; color: "#4598ee" }
+                    GradientStop { position: 1.0; color: "#2f85de" }
                 }
-                border.color: "#2d639c"
+                border.color: "#4eb8ff"
                 border.width: 1
                 Behavior on width { 
                     PropertyAnimation {
