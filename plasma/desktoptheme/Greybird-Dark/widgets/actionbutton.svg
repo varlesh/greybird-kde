@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="64" height="16" version="1">
+ <defs id="defs16">
+  <linearGradient id="linearGradient2047" x1="-406" x2="-406" y1="236" y2="222" gradientTransform="translate(40,-1)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient15645"/>
+  <linearGradient id="linearGradient928" x1="-366" x2="-366" y1="221" y2="235" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient16817"/>
+  <linearGradient id="linearGradient15645">
+   <stop style="stop-color:#1b1c1d;stop-opacity:1"  offset="0"/>
+   <stop style="stop-color:#303437;stop-opacity:1"  offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient16817">
+   <stop style="stop-color:#000000;stop-opacity:1"  offset="0"/>
+   <stop style="stop-color:#17191b;stop-opacity:1"  offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="normal" transform="translate(375,-220)">
+  <path  style="opacity:1;fill:#1d1f1f;fill-opacity:1" transform="translate(-375,218)" d="m 8,2 c -4.41236,0 -8,3.58764 -8,8 0,4.41236 3.58764,8 8,8 4.41236,0 8,-3.58764 8,-8 C 16,5.58764 12.41236,2 8,2 Z M 7.90625,3 A 7,7 0 0 1 8,3 7,7 0 0 1 15,10 7,7 0 0 1 8,17 7,7 0 0 1 1,10 7,7 0 0 1 7.90625,3 Z"/>
+  <circle cx="-367" cy="228" style="opacity:0.37;fill:url(#linearGradient2047);fill-opacity:1.0"  r="7"/>
+  <path  d="m -367,221 a 7,7 0 0 0 -7,7 7,7 0 0 0 0.0234,0.54102 A 7,7 0 0 1 -367,222 a 7,7 0 0 1 6.97656,6.45898 A 7,7 0 0 0 -360,228 a 7,7 0 0 0 -7,-7 z" style="opacity:0.05;fill:#ffffff"/>
+  <path style="opacity:0.2"  d="M -360.02344,227.45898 A 7,7 0 0 1 -367,234 7,7 0 0 1 -373.97656,227.54102 7,7 0 0 0 -374,228 a 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -0.0234,-0.54102 z"/>
+ </g>
+ <g id="hover" transform="translate(391,-220)">
+  <path  style="opacity:1;fill:#1d1f1f;fill-opacity:1" transform="translate(-375,218)" d="m 8,2 c -4.41236,0 -8,3.58764 -8,8 0,4.41236 3.58764,8 8,8 4.41236,0 8,-3.58764 8,-8 C 16,5.58764 12.41236,2 8,2 Z M 7.90625,3 A 7,7 0 0 1 8,3 7,7 0 0 1 15,10 7,7 0 0 1 8,17 7,7 0 0 1 1,10 7,7 0 0 1 7.90625,3 Z"/>
+  <circle cx="-367" cy="228" style="opacity:0.1;fill:#ffffff"  r="7"/>
+ </g>
+ <g id="focus" transform="translate(407,-220)">
+  <path  style="opacity:1;fill:#1d1f1f;fill-opacity:1" transform="translate(-375,218)" d="m 8,2 c -4.41236,0 -8,3.58764 -8,8 0,4.41236 3.58764,8 8,8 4.41236,0 8,-3.58764 8,-8 C 16,5.58764 12.41236,2 8,2 Z M 7.90625,3 A 7,7 0 0 1 8,3 7,7 0 0 1 15,10 7,7 0 0 1 8,17 7,7 0 0 1 1,10 7,7 0 0 1 7.90625,3 Z"/>
+  <circle cx="-367" cy="228" style="opacity:0.1;fill:#ffffff"  r="7"/>
+ </g>
+ <g id="pressed" transform="translate(423,-220)">
+  <path  style="opacity:1;fill:#1d1f1f;fill-opacity:1" transform="translate(-375,218)" d="m 8,2 c -4.41236,0 -8,3.58764 -8,8 0,4.41236 3.58764,8 8,8 4.41236,0 8,-3.58764 8,-8 C 16,5.58764 12.41236,2 8,2 Z M 7.90625,3 A 7,7 0 0 1 8,3 7,7 0 0 1 15,10 7,7 0 0 1 8,17 7,7 0 0 1 1,10 7,7 0 0 1 7.90625,3 Z"/>
+  <circle cx="-367" cy="228" style="fill:url(#linearGradient928);fill-opacity:1;opacity:0.37"  r="7"/>
+ </g>
+</svg>

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="25" height="88" version="1.1">
+ <rect id="hint-tile-center" style="fill:#ff0000" width="2" height="2" x="0" y="0" rx="0" ry="2"/>
+ <rect id="hint-focus-over-base" style="fill:#ff0000" width="2" height="2" x="0" y="4" rx="0" ry="2"/>
+ <path id="base-center" d="m 6.0000003,16.999998 v 16 H 22 v -16 z" style="fill:#353839;fill-opacity:1"/>
+ <g id="base-left" transform="matrix(0.4,0,0,0.49230769,-5.4999997,-7.0007895)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(1.25,0,0,1.015625,-373.125,-28.943713)" d="m 317.5,76.5 v 32 h 4 v -32 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-topleft" transform="matrix(0.4,0,0,0.4,-5.4999997,-2.5006415)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(1.25,0,0,1.25,-373.125,-46.8734)" d="m 321.5,72.5 c -2.5,0 -4,1.5 -4,4 h 4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-top" transform="matrix(0,0.4,-0.49230769,0,46.000785,5.4999495)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,-1.015625,1.25,0,-66.874877,407.77503)" d="m 321.5,72.5 v 4 h 32 v -4 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-topright" transform="matrix(-0.4,0,0,0.4,33.5,-2.5006905)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,1.25,470.625,-46.873277)" d="m 353.5,72.5 v 4 h 4 c 0,-2.5 -1.5,-4 -4,-4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-right" transform="matrix(-0.4,0,0,0.49230769,33.5,-7.0008385)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,1.015625,470.625,-28.943613)" d="m 353.5,76.5 v 32 h 4 v -32 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-bottomleft" transform="matrix(0,-0.4,0.4,0,-13.50064,44.499948)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,1.25,-1.25,0,164.37487,-353.1234)" d="m 317.5,108.5 c 0,2.5 1.5,4 4,4 v -4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-bottom" transform="matrix(0,-0.4,0.49230769,0,-18.00079,44.499998)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,1.015625,-1.25,0,164.375,-277.77183)" d="m 321.5,108.5 v 4 h 32 v -4 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <g id="base-bottomright" transform="matrix(-0.4,0,0,-0.4,33.5,52.500588)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,-1.25,470.625,184.37647)" d="m 353.5,108.5 v 4 c 2.5,0 4,-1.5 4,-4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:1;fill:#1d1f1f;fill-opacity:1"/>
+ </g>
+ <rect id="base-hint-top-margin" style="fill:#ff0000" width="2" height="3" x="13" y="14"/>
+ <rect id="base-hint-right-margin" style="fill:#ff0000" width="2" height="3" x="-26" y="22" transform="rotate(-90)"/>
+ <rect id="base-hint-left-margin" style="fill:#ff0000" width="2" height="3" x="-26" y="3" transform="rotate(-90)"/>
+ <rect id="base-hint-bottom-margin" style="fill:#ff0000" width="2" height="3" x="13" y="33"/>
+ <path id="focus-center" d="m 6.0000003,42.999998 v 16 H 22 v -16 z" style="fill:#353839;fill-opacity:1"/>
+ <g id="focus-left" transform="matrix(0.4,0,0,0.49230769,-5.4999997,18.99921)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(1.25,0,0,1.015625,-373.125,-28.943713)" d="m 317.5,76.5 v 32 h 4 v -32 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-topleft" transform="matrix(0.4,0,0,0.4,-5.4999997,23.499358)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(1.25,0,0,1.25,-373.125,-46.8734)" d="m 321.5,72.5 c -2.5,0 -4,1.5 -4,4 h 4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-top" transform="matrix(0,0.4,-0.49230769,0,46.000785,31.499949)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,-1.015625,1.25,0,-66.874877,407.77503)" d="m 321.5,72.5 v 4 h 32 v -4 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-topright" transform="matrix(-0.4,0,0,0.4,33.5,23.499309)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,1.25,470.625,-46.873277)" d="m 353.5,72.5 v 4 h 4 c 0,-2.5 -1.5,-4 -4,-4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-right" transform="matrix(-0.4,0,0,0.49230769,33.5,18.999161)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,1.015625,470.625,-28.943613)" d="m 353.5,76.5 v 32 h 4 v -32 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-bottomleft" transform="matrix(0,-0.4,0.4,0,-13.50064,70.499948)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,1.25,-1.25,0,164.37487,-353.1234)" d="m 317.5,108.5 c 0,2.5 1.5,4 4,4 v -4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-bottom" transform="matrix(0,-0.4,0.49230769,0,-18.00079,70.499998)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,1.015625,-1.25,0,164.375,-277.77183)" d="m 321.5,108.5 v 4 h 32 v -4 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="fill:#398ee7"/>
+ </g>
+ <g id="focus-bottomright" transform="matrix(-0.4,0,0,-0.4,33.5,78.500588)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,-1.25,470.625,184.37647)" d="m 353.5,108.5 v 4 c 2.5,0 4,-1.5 4,-4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="fill:#398ee7"/>
+ </g>
+ <path id="hover-center" d="m 6.0000003,68.999998 v 16 H 22 v -16 z" style="fill:#353839;fill-opacity:1"/>
+ <g id="hover-left" transform="matrix(0.4,0,0,0.49230769,-5.4999997,44.99921)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(1.25,0,0,1.015625,-373.125,-28.943713)" d="m 317.5,76.5 v 32 h 4 v -32 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-topleft" transform="matrix(0.4,0,0,0.4,-5.4999997,49.499358)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(1.25,0,0,1.25,-373.125,-46.8734)" d="m 321.5,72.5 c -2.5,0 -4,1.5 -4,4 h 4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-top" transform="matrix(0,0.4,-0.49230769,0,46.000785,57.499949)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,-1.015625,1.25,0,-66.874877,407.77503)" d="m 321.5,72.5 v 4 h 32 v -4 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-topright" transform="matrix(-0.4,0,0,0.4,33.5,49.499309)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,1.25,470.625,-46.873277)" d="m 353.5,72.5 v 4 h 4 c 0,-2.5 -1.5,-4 -4,-4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-right" transform="matrix(-0.4,0,0,0.49230769,33.5,44.999161)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,1.015625,470.625,-28.943613)" d="m 353.5,76.5 v 32 h 4 v -32 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-bottomleft" transform="matrix(0,-0.4,0.4,0,-13.50064,96.499948)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,1.25,-1.25,0,164.37487,-353.1234)" d="m 317.5,108.5 c 0,2.5 1.5,4 4,4 v -4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-bottom" transform="matrix(0,-0.4,0.49230769,0,-18.00079,96.499998)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(0,1.015625,-1.25,0,164.375,-277.77183)" d="m 321.5,108.5 v 4 h 32 v -4 z"/>
+  <path  d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z" style="opacity:0.001"/>
+ </g>
+ <g id="hover-bottomright" transform="matrix(-0.4,0,0,-0.4,33.5,104.50059)">
+  <path style="fill:#353839;fill-opacity:1"  transform="matrix(-1.25,0,0,-1.25,470.625,184.37647)" d="m 353.5,108.5 v 4 c 2.5,0 4,-1.5 4,-4 z"/>
+  <path  d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z" style="opacity:0.001"/>
+ </g>
+ <rect id="focus-hint-top-margin" style="fill:#ff0000" width="2" height=".1" x="13" y="40"/>
+ <rect id="focus-hint-bottom-margin" style="fill:#ff0000" width="2" height=".1" x="13" y="61.9"/>
+ <rect id="focus-hint-left-margin" style="fill:#ff0000" width=".1" height="2" x="3" y="50"/>
+ <rect id="focus-hint-right-margin" style="fill:#ff0000" width=".1" height="2" x="24.9" y="50"/>
+ <rect id="hover-hint-top-margin" style="fill:#ff0000" width="2" height=".1" x="13" y="66"/>
+ <rect id="hover-hint-left-margin" style="fill:#ff0000" width=".1" height="2" x="3" y="76"/>
+ <rect id="hover-hint-right-margin" style="fill:#ff0000" width=".1" height="2" x="24.9" y="76"/>
+ <rect id="hover-hint-bottom-margin" style="fill:#ff0000" width="2" height=".1" x="13" y="87.9"/>
+</svg>

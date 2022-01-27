@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="224" height="238" version="1">
+ <defs id="defs14">
+  <linearGradient id="linearGradient1163">
+   <stop style="stop-color:#000000;stop-opacity:1"  offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0"  offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1147">
+   <stop style="stop-color:#000000;stop-opacity:1"  offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0"  offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1149" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1154" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1165" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1178" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1180" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1182" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1189" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1193" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1265" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1267" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1269" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1271" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1273" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1275" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1277" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1279" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1333" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1335" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1337" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1339" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1341" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1343" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1345" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1347" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1349" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1351" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1353" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1355" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1357" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1359" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1361" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1363" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1485" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1487" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1489" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1491" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1493" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1495" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1497" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1499" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1501" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1503" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1505" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1507" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1509" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1511" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1513" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1515" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1517" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1519" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1521" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1523" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1525" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1527" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1529" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1531" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1559" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,-2,2,0,116,-23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1561" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,2,190,51)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1563" x1="14" x2="14" y1="-51" y2="-61" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <radialGradient id="radialGradient1565" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(0,2,2,0,116,139)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <radialGradient id="radialGradient1567" cx="14" cy="-51" r="5" fx="14" fy="-51" gradientTransform="matrix(2,0,0,-2,190,65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1147"/>
+  <linearGradient id="linearGradient1569" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(1,0,0,-1,0,116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1571" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,1,0,65,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+  <linearGradient id="linearGradient1573" x1="14" x2="14" y1="-51" y2="-61" gradientTransform="matrix(0,1.0686275,-1,0,167,-65.960787)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1163"/>
+ </defs>
+ <g id="white-notes" transform="translate(-4,-177)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1149)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1154)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1165)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1178)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1180)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1182)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1189)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1193)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#f9f9f9"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.8;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="black-notes" transform="translate(220,-177)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1265)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1267)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1269)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1271)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1273)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1275)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1277)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1279)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#353535"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.2;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="orange-notes" transform="translate(444,-177)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1349)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1351)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1353)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1355)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1357)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1359)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1361)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1363)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#ff7a0d"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.4;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="green-notes" transform="translate(668,-177)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1333)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1335)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1337)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1339)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1341)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1343)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1345)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1347)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#46b04a"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.4;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="blue-notes" transform="translate(-4,61)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1517)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1519)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1521)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1523)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1525)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1527)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1529)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1531)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#1a73e8"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.4;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="pink-notes" transform="translate(220,61)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1501)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1503)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1505)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1507)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1509)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1511)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1513)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1515)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#ec407a"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.4;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="yellow-notes" transform="translate(668,61)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1485)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1487)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1489)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1491)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1493)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1495)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1497)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1499)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#ffca28"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.6;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+ <g id="red-notes" transform="translate(444,61)">
+  <g style="opacity:0.399" >
+   <path style="fill:url(#radialGradient1559)"  d="m 4,-61 h 10 v 10 H 4 Z"/>
+   <path style="fill:url(#radialGradient1561)"  d="m 228,-61 v 10 h -10 v -10 z"/>
+   <path style="fill:url(#linearGradient1563)"  d="m 14,-61 h 204 v 10 H 14 Z"/>
+   <path style="fill:url(#radialGradient1565)"  d="M 4,177 H 14 V 167 H 4 Z"/>
+   <path style="fill:url(#radialGradient1567)"  d="m 228,177 v -10 h -10 v 10 z"/>
+   <path style="fill:url(#linearGradient1569)"  d="M 14,177 H 218 V 167 H 14 Z"/>
+   <path style="fill:url(#linearGradient1571)"  d="M 4,-51 V 167 H 14 V -51 Z"/>
+   <path style="fill:url(#linearGradient1573)"  d="M 228,-51 V 167 H 218 V -51 Z"/>
+  </g>
+  <rect style="fill:#1d1f1f"  width="216" height="230" x="8" y="-57" rx="4.5" ry="4.5"/>
+  <rect style="fill:#f23a3a"  width="214" height="228" x="9" y="-56" rx="4" ry="4"/>
+  <path style="opacity:0.4;fill:#ffffff"  transform="translate(116,104)" d="m -103,-160 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 h 206 c 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ </g>
+</svg>
