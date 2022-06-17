@@ -1,9 +1,9 @@
 [Desktop Entry]
-Comment=Greybird Dark
+Comment=Greybird Darker
 
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=Greybird Dark
+Name=Greybird Darker
 
 Type=Service
 
@@ -13,9 +13,9 @@ X-KDE-PluginInfo-Author=Alexey Varfolomeev
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=com.github.varlesh.greybird-dark
+X-KDE-PluginInfo-Name=com.github.varlesh.greybird-darker
 X-KDE-PluginInfo-Version=20220127
 X-KDE-PluginInfo-Website=https://github.com/varlesh/greybird-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1691708,kns://plasma-themes.knsrc/api.kde-look.org/1691713,kns://aurorae.knsrc/api.kde-look.org/1521788,kns://xcursor.knsrc/api.kde-look.org/1356095,kns://wallpaper.knsrc/api.kde-look.org/1425508
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1521785,kns://plasma-themes.knsrc/api.kde-look.org/1691713,kns://aurorae.knsrc/api.kde-look.org/1521788,kns://xcursor.knsrc/api.kde-look.org/1356095,kns://wallpaper.knsrc/api.kde-look.org/1425508
