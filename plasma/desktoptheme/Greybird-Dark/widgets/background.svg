@@ -14,49 +14,49 @@
   <linearGradient id="linearGradient1049" x1="-73" x2="-73" y1="1134.393" y2="1141.643" gradientTransform="matrix(1,0,0,-0.96551724,80,1102.2759)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3837"/>
  </defs>
  <g id="bottom" transform="matrix(1,0,0,-1,0,62)">
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 V 7 H 55 V 4 Z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 V 7 H 55 V 4 Z"/>
   <path style="opacity:0.25;fill:url(#linearGradient1025)"  d="M 7,4 V 0 h 48 v 4 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 V 7 H 55 V 5 Z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 V 7 H 55 V 5 Z"/>
  </g>
- <rect id="center" style="fill:#3b3e3f;fill-opacity:1" width="48" height="48" x="7" y="7"/>
+ <rect id="center" style="fill:#3b3e3f" width="48" height="48" x="7" y="7"/>
  <g id="right" transform="rotate(90,31,31)">
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 V 7 H 55 V 4 Z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 V 7 H 55 V 4 Z"/>
   <path style="opacity:0.25;fill:url(#linearGradient1049)"  d="M 7,4 V 0 h 48 v 4 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 V 7 H 55 V 5 Z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 V 7 H 55 V 5 Z"/>
  </g>
  <g id="top">
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 V 7 H 55 V 4 Z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 V 7 H 55 V 4 Z"/>
   <path style="opacity:0.25;fill:url(#linearGradient966)"  d="M 7,4 V 0 h 48 v 4 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 V 7 H 55 V 5 Z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 V 7 H 55 V 5 Z"/>
  </g>
  <rect id="hint-top-margin" style="fill:#ff0000" width="4" height="7" x="29" y="0"/>
  <rect id="hint-bottom-margin" style="fill:#ff0000" width="4" height="7" x="29" y="55"/>
  <rect id="hint-right-margin" style="fill:#ff0000" width="4" height="7" x="29" y="-62" transform="rotate(90)"/>
  <g id="left" transform="matrix(0,1,1,0,0,0)">
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 V 7 H 55 V 4 Z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 V 7 H 55 V 4 Z"/>
   <path style="opacity:0.25;fill:url(#linearGradient1037)"  d="M 7,4 V 0 h 48 v 4 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 V 7 H 55 V 5 Z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 V 7 H 55 V 5 Z"/>
  </g>
  <rect id="hint-left-margin" style="fill:#ff0000" width="4" height="7" x="29" y="-7" transform="rotate(90)"/>
  <rect id="hint-stretch-borders" style="fill:#ff0000" width="4" height="4" x="0" y="-4"/>
  <g id="topleft">
   <path style="opacity:0.25;fill:url(#radialGradient897)"  d="M 0,0 V 7 H 4 C 4,5.338 5.33801,4 7,4 V 0 Z"/>
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
  </g>
  <g id="topright" transform="matrix(-1,0,0,1,62,0)">
   <path style="opacity:0.25;fill:url(#radialGradient956)"  d="M 0,0 V 7 H 4 C 4,5.338 5.33801,4 7,4 V 0 Z"/>
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
  </g>
  <g id="bottomleft" transform="matrix(1,0,0,-1,0,62)">
   <path style="opacity:0.25;fill:url(#radialGradient1021)"  d="M 0,0 V 7 H 4 C 4,5.338 5.33801,4 7,4 V 0 Z"/>
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
  </g>
  <g id="bottomright" transform="rotate(-180,31,31)">
   <path style="opacity:0.25;fill:url(#radialGradient1017)"  d="M 0,0 V 7 H 4 C 4,5.338 5.33801,4 7,4 V 0 Z"/>
-  <path style="opacity:1;fill:#1d1f1f;fill-opacity:1"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
-  <path style="fill:#3b3e3f;fill-opacity:1"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
+  <path style="fill:#1d1f1f"  d="M 7,4 C 5.33801,4 4,5.338 4,7 h 3 z"/>
+  <path style="fill:#3b3e3f"  d="M 7,5 C 5.8920067,5 5,5.892 5,7 h 2 z"/>
  </g>
 </svg>

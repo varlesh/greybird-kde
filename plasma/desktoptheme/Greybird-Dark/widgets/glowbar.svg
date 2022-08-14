@@ -18,7 +18,7 @@
  <rect id="center" style="opacity:0.001" width="12" height="12" x="12" y="12"/>
  <rect id="topright" style="fill:url(#radialGradient3777)" width="12" height="12" x="24" y="0"/>
  <rect id="topleft" style="fill:url(#radialGradient3785)" width="12" height="12" x="-12" y="0" transform="rotate(-90)"/>
- <rect id="top" style="fill:url(#linearGradient3795);fill-opacity:1" width="12" height="12" x="12" y="0"/>
+ <rect id="top" style="fill:url(#linearGradient3795)" width="12" height="12" x="12" y="0"/>
  <rect id="right" style="fill:url(#linearGradient3799)" width="12" height="12" x="12" y="-36" transform="rotate(90)"/>
  <rect id="bottomright" style="fill:url(#radialGradient3803)" width="12" height="12" x="24" y="-36" transform="scale(1,-1)"/>
  <rect id="bottom" style="fill:url(#linearGradient3807)" width="12" height="12" x="-24" y="-36" transform="scale(-1)"/>

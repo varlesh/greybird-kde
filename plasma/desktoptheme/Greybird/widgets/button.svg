@@ -218,7 +218,7 @@
  <rect id="focus-hint-left-margin" style="fill:#ff0000" width="1" height=".1" x="-51.5" y="92" transform="rotate(-90)"/>
  <rect id="focus-hint-bottom-margin" style="fill:#ff0000" width="1" height=".1" x="111.5" y="70.9"/>
  <rect id="focus-hint-right-margin" style="fill:#ff0000" width="1" height=".1" x="-51.5" y="131.9" transform="rotate(-90)"/>
- <rect style="opacity:0.37;fill:url(#linearGradient1118);fill-opacity:1" id="toolbutton-hover-center" width="8" height="8" x="9" y="9"/>
+ <rect style="opacity:0.37;fill:url(#linearGradient1118)" id="toolbutton-hover-center" width="8" height="8" x="9" y="9"/>
  <g id="toolbutton-hover-bottomleft" transform="translate(-77,38)">
   <path id="path1058" style="opacity:0.18" d="m 78,-21 v 5 c 0,1.662 1.338,3 3,3 h 5 v -1 H 81.625 C 80.17075,-14 79,-15.17075 79,-16.625 V -21 Z"/>
   <path id="path1070" style="opacity:0.37;fill:url(#linearGradient1122)" d="M 81.625,-14 C 80.17075,-14 79,-15.17075 79,-16.625 V -21 h 7 v 7 z"/>
@@ -254,7 +254,7 @@
   <rect style="opacity:0.37;fill:url(#linearGradient1112)" id="rect1068" width="8" height="7" x="86" y="-36"/>
   <path id="rect1132" style="opacity:0.6;fill:#ffffff" d="m 86,-36 v 1 h 8 v -1 z"/>
  </g>
- <rect style="opacity:0.13;fill-opacity:1" id="toolbutton-pressed-center" width="8" height="8" x="36" y="9"/>
+ <rect style="opacity:0.13" id="toolbutton-pressed-center" width="8" height="8" x="36" y="9"/>
  <g id="toolbutton-pressed-bottomleft" transform="translate(-50,38)">
   <path id="path1180" style="opacity:0.18" d="m 78,-21 v 5 c 0,1.662 1.338,3 3,3 h 5 v -1 H 81.625 C 80.17075,-14 79,-15.17075 79,-16.625 V -21 Z"/>
   <path id="path1182" style="opacity:0.13" d="M 81.625,-14 C 80.17075,-14 79,-15.17075 79,-16.625 V -21 h 7 v 7 z"/>

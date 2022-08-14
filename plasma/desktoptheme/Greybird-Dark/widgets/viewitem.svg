@@ -35,101 +35,101 @@
  <rect id="hint-stretch-borders" style="fill:#ff0000" width="4" height="4" x="0" y="0"/>
  <g id="hover-top" transform="translate(-51.999997,-1170)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient2254)"  width="4" height="4" x="56" y="1176"/>
-  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff;fill-opacity:1"/>
+  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff"/>
  </g>
  <g id="hover-left" transform="rotate(-90,-553,623)" style="opacity:0.9">
   <rect  width="4" height="4" x="56" y="1176" style="fill:url(#linearGradient1086)"/>
-  <rect style="fill:#4eb8ff;fill-opacity:1"  width="4" height="1" x="56" y="1176"/>
+  <rect style="fill:#4eb8ff"  width="4" height="1" x="56" y="1176"/>
  </g>
  <g id="hover-right" transform="matrix(0,-1,-1,0,1188,70)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient2256)"  width="4" height="4" x="56" y="1176"/>
-  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff;fill-opacity:1"/>
+  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff"/>
  </g>
  <g id="hover-bottom" transform="matrix(1,0,0,-1,-51.999997,1194)" style="opacity:0.9">
   <rect  width="4" height="4" x="56" y="1176" style="fill:url(#linearGradient2260)"/>
-  <rect style="fill:#4eb8ff;fill-opacity:1"  width="4" height="1" x="56" y="1176"/>
+  <rect style="fill:#4eb8ff"  width="4" height="1" x="56" y="1176"/>
  </g>
  <g id="hover-topleft" transform="translate(-50.999997,-1170)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1088)"  width="4" height="4" x="-1180" y="51" transform="rotate(-90)"/>
-  <path style="fill:#4eb8ff;fill-opacity:1"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
+  <path style="fill:#4eb8ff"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
  </g>
  <g id="hover-topright" transform="matrix(-1,0,0,1,63.000003,-1170)" style="opacity:0.9">
   <rect  width="4" height="4" x="-1180" y="51" transform="rotate(-90)" style="fill:url(#linearGradient2263)"/>
-  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff;fill-opacity:1"/>
+  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff"/>
  </g>
  <g id="hover-bottomleft" transform="matrix(1,0,0,-1,-50.999997,1194)" style="opacity:0.9">
   <rect  width="4" height="4" x="-1180" y="51" transform="rotate(-90)" style="fill:url(#linearGradient1090)"/>
-  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff;fill-opacity:1"/>
+  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff"/>
  </g>
  <g id="hover-bottomright" transform="rotate(180,31.500002,597)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient2267)"  width="4" height="4" x="-1180" y="51" transform="rotate(-90)"/>
-  <path style="fill:#4eb8ff;fill-opacity:1"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
+  <path style="fill:#4eb8ff"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
  </g>
  <rect id="hover-center" width="4" height="4" x="-14" y="4" transform="rotate(-90)" style="opacity:0.9;fill:url(#linearGradient2271)"/>
  <g id="selected-top" transform="translate(-38.999997,-1170)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1183)"  width="4" height="4" x="56" y="1176"/>
-  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff;fill-opacity:1"/>
+  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff"/>
  </g>
  <g id="selected-left" transform="rotate(-90,-546.5,616.5)" style="opacity:0.9">
   <rect  width="4" height="4" x="56" y="1176" style="fill:url(#linearGradient1181)"/>
-  <rect style="fill:#4eb8ff;fill-opacity:1"  width="4" height="1" x="56" y="1176"/>
+  <rect style="fill:#4eb8ff"  width="4" height="1" x="56" y="1176"/>
  </g>
  <g id="selected-right" transform="matrix(0,-1,-1,0,1201,70)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1179)"  width="4" height="4" x="56" y="1176"/>
-  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff;fill-opacity:1"/>
+  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff"/>
  </g>
  <g id="selected-bottom" transform="matrix(1,0,0,-1,-38.999997,1194)" style="opacity:0.9">
   <rect  width="4" height="4" x="56" y="1176" style="fill:url(#linearGradient1177)"/>
-  <rect style="fill:#4eb8ff;fill-opacity:1"  width="4" height="1" x="56" y="1176"/>
+  <rect style="fill:#4eb8ff"  width="4" height="1" x="56" y="1176"/>
  </g>
  <g id="selected-topleft" transform="translate(-37.999997,-1170)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1175)"  width="4" height="4" x="-1180" y="51" transform="rotate(-90)"/>
-  <path style="fill:#4eb8ff;fill-opacity:1"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
+  <path style="fill:#4eb8ff"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
  </g>
  <g id="selected-topright" transform="matrix(-1,0,0,1,76.000003,-1170)" style="opacity:0.9">
   <rect  width="4" height="4" x="-1180" y="51" transform="rotate(-90)" style="fill:url(#linearGradient1173)"/>
-  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff;fill-opacity:1"/>
+  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff"/>
  </g>
  <g id="selected-bottomleft" transform="matrix(1,0,0,-1,-37.999997,1194)" style="opacity:0.9">
   <rect  width="4" height="4" x="-1180" y="51" transform="rotate(-90)" style="fill:url(#linearGradient1171)"/>
-  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff;fill-opacity:1"/>
+  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff"/>
  </g>
  <g id="selected-bottomright" transform="rotate(180,38.000002,597)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1169)"  width="4" height="4" x="-1180" y="51" transform="rotate(-90)"/>
-  <path style="fill:#4eb8ff;fill-opacity:1"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
+  <path style="fill:#4eb8ff"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
  </g>
  <rect id="selected-center" width="4" height="4" x="-14" y="17" transform="rotate(-90)" style="opacity:0.9;fill:url(#linearGradient1167)"/>
  <g id="selected_hover-top" transform="translate(-25.999987,-1170)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1251)"  width="4" height="4" x="56" y="1176"/>
-  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff;fill-opacity:1"/>
+  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff"/>
  </g>
  <g id="selected_hover-left" transform="rotate(-90,-540,610)" style="opacity:0.9">
   <rect  width="4" height="4" x="56" y="1176" style="fill:url(#linearGradient1249)"/>
-  <rect style="fill:#4eb8ff;fill-opacity:1"  width="4" height="1" x="56" y="1176"/>
+  <rect style="fill:#4eb8ff"  width="4" height="1" x="56" y="1176"/>
  </g>
  <g id="selected_hover-right" transform="matrix(0,-1,-1,0,1214,70)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1247)"  width="4" height="4" x="56" y="1176"/>
-  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff;fill-opacity:1"/>
+  <rect  width="4" height="1" x="56" y="1176" style="fill:#4eb8ff"/>
  </g>
  <g id="selected_hover-bottom" transform="matrix(1,0,0,-1,-25.999987,1194)" style="opacity:0.9">
   <rect  width="4" height="4" x="56" y="1176" style="fill:url(#linearGradient1245)"/>
-  <rect style="fill:#4eb8ff;fill-opacity:1"  width="4" height="1" x="56" y="1176"/>
+  <rect style="fill:#4eb8ff"  width="4" height="1" x="56" y="1176"/>
  </g>
  <g id="selected_hover-topleft" transform="translate(-24.999987,-1170)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1243)"  width="4" height="4" x="-1180" y="51" transform="rotate(-90)"/>
-  <path style="fill:#4eb8ff;fill-opacity:1"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
+  <path style="fill:#4eb8ff"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
  </g>
  <g id="selected_hover-topright" transform="matrix(-1,0,0,1,89.000013,-1170)" style="opacity:0.9">
   <rect  width="4" height="4" x="-1180" y="51" transform="rotate(-90)" style="fill:url(#linearGradient1241)"/>
-  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff;fill-opacity:1"/>
+  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff"/>
  </g>
  <g id="selected_hover-bottomleft" transform="matrix(1,0,0,-1,-24.999987,1194)" style="opacity:0.9">
   <rect  width="4" height="4" x="-1180" y="51" transform="rotate(-90)" style="fill:url(#linearGradient1239)"/>
-  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff;fill-opacity:1"/>
+  <path  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z" style="fill:#4eb8ff"/>
  </g>
  <g id="selected_hover-bottomright" transform="rotate(180,44.500007,597)" style="opacity:0.9">
   <rect style="fill:url(#linearGradient1237)"  width="4" height="4" x="-1180" y="51" transform="rotate(-90)"/>
-  <path style="fill:#4eb8ff;fill-opacity:1"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
+  <path style="fill:#4eb8ff"  d="m 51,1176 v 1 3 h 1 v -3 h 3 v -1 h -3 z"/>
  </g>
  <rect id="selected_hover-center" width="4" height="4" x="-14" y="30" transform="rotate(-90)" style="opacity:0.9;fill:url(#linearGradient1235)"/>
 </svg>
